@@ -16,3 +16,9 @@
 [submodule "bundle/The-NERD-Commenter"]
 	path = bundle/The-NERD-Commenter
 	url = git://github.com/vim-scripts/The-NERD-Commenter.git
+[submodule "bundle/vcscommand"]
+	path = bundle/vcscommand
+	url = git://github.com/vim-scripts/vcscommand.vim.git
+[submodule "bundle/matchit"]
+	path = bundle/matchit
+	url = git://github.com/vim-scripts/matchit.zip.git
