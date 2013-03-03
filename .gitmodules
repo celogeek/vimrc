@@ -10,3 +10,6 @@
 [submodule "bundle/perl-support"]
 	path = bundle/perl-support
 	url = git://github.com/vim-scripts/perl-support.vim.git
+[submodule "bundle/SuperTab"]
+	path = bundle/SuperTab
+	url = git://github.com/vim-scripts/SuperTab.git
