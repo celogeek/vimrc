@@ -7,3 +7,6 @@
 [submodule "bundle/L9"]
 	path = bundle/L9
 	url = git://github.com/vim-scripts/L9.git
+[submodule "bundle/perl-support"]
+	path = bundle/perl-support
+	url = git://github.com/vim-scripts/perl-support.vim.git
