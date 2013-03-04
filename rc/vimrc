@@ -1,3 +1,5 @@
+execute pathogen#infect()
+
 " When started as "evim", evim.vim will already have done these settings.
 if v:progname =~? "evim"
   finish
@@ -86,9 +88,6 @@ endif
 colorscheme desert
 
 let mapleader = ","
-
-"GetLatest
-let g:GetLatestVimScripts_allowautoinstall=1
 
 "TagShortCut
 map <Leader>t :Tlist<CR>
