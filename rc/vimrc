@@ -88,3 +88,8 @@ let mapleader = ","
 "TagShortCut
 map <Leader>t :Tlist<CR>
 
+set expandtab
+set tabstop=4
+retab
+set shiftwidth=4
+
